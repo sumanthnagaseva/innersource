@@ -14,7 +14,7 @@ For your repositories to flourish, it's important that people know they exist! H
 - Find some enthusiastic early adopters. 
 
 ### Repository content
-- Add a short, but clear description of what the repository is for.
+- github training
 - Add other common README sections: contributing, build instructions, short usage example, etc.
 - Add a screenshot of the program. Without a screenshot, visitors are more likely to leave the page.
 - Create a demo page if possible, to help users get up and running as quickly as possible.
